@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# cashback-now
-CashBack Now é uma aplicação web que possibilita a consulta em tempo real do site que oferece o maior cashback em determinada loja.
-=======
 # CahsbackNow
+
+CashbackNow is a web application that enables real-time consultation of the website that offers the highest cashback in a given store.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
@@ -29,4 +27,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
->>>>>>> master
